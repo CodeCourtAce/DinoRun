@@ -1,0 +1,25 @@
+@keyframes slidright {
+    from {
+        background-position: 70000%;
+    }
+    to {
+        background-position: 0%;
+    }
+}
+
+
+#desert {
+    position: absolute;
+    background-image: url("t-rex-background.png");
+    height: 200px;
+    width: 100%;
+    animation: slidright 600s infinite linear;
+}
+
+.dino {
+    background-image: url("t-rex.png");
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    bottom: 0;
+}
