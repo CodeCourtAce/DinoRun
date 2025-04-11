@@ -14,6 +14,7 @@
     height: 200px;
     width: 100%;
     animation: slidright 600s infinite linear;
+    bottom: 0;
 }
 
 .dino {
@@ -22,4 +23,16 @@
     width: 60px;
     position: absolute;
     bottom: 0;
+}
+
+.obstacle {
+    background-image: url("cacti.png");
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    bottom: 0;
+}
+
+body {
+    background-color: rgb(250, 250, 250);
 }
