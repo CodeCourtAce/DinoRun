@@ -36,6 +36,11 @@ cd dino-run
 ## 💡 Inspiration
 Based on the original Chrome Dino game by the Google Chrome UX team. This project was built for fun, learning, and a bit of retro gaming nostalgia.
 
+# 📎Link To Working Site 
+
+## [Play Here!](https://ggdinorungame.netlify.app/)
+
+
 ## Demo Photo
 
 ![alt text](image.png)
